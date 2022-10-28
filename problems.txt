@@ -1,0 +1,779 @@
+JOI	2022
+	24474	Intercastellar
+	24475	Self Study
+	24476	Let’s Win the Election
+	24477	Railway Trip 2
+	24478	Sandcastle 2
+JOI	2021
+	20984	Growing Vegetables is Fun 4
+	20985	Snowball
+	20986	Group Photo
+	20987	Robot
+	20988	Dungeon 3
+JOI	2020
+	18431	Just Long Neckties
+	18432	JJOOII 2
+	18433	Collecting Stamps 3
+	18434	Olympic Bus
+	18435	Fire
+JOI	2019
+	16980	Bitaro the Brave
+	16981	Exhibition
+	16982	Growing Vegetables is Fun 3
+	16983	Coin Collecting
+	16984	Unique Cities
+JOI	2018
+	15553	난로
+	15554	전시회
+	15555	Dango Maker
+	15556	Commuter Pass
+	15557	Snake Escaping
+JOI	2017
+	14419	Foehn Phenomena
+	14420	Semiexpress
+	14421	The Kingdom of JOIOI
+	14422	Soccer
+	14423	Rope
+JOI	2016
+	11985	오렌지 출하
+	11986	スタンプラリー ２ (Collecting Stamps 2)
+	11987	鉄道運賃 (Train Fare)
+	11988	縄張り (Territory)
+	11989	단층
+JOI	2015
+	10713	기차 여행
+	10714	케이크 자르기 2
+	10715	JOI 공원
+	10716	코딩 대회
+	10717	성벽
+JOI	2014
+	10045	JOI 紋章 (JOI Emblem)
+	10046	IOI 饅頭 (IOI Manju)
+	10047	バームクーヘン (Baumkuchen)
+	10048	フクロモモンガ (Sugar Glider)
+	10049	切り取り線 (Cutting)
+	5522	카드 게임
+	5523	경기 결과
+	5524	입실 관리
+	5525	IOIOI
+	5526	ダーツ (Darts)
+JOI	2013
+	5527	전구 장식
+	5528	달려라 IOI 열차
+	5529	저택
+	5530	JOIOI 탑
+	5531	버블 정렬
+	5522	카드 게임
+	5523	경기 결과
+	5524	입실 관리
+	5525	IOIOI
+	5526	ダーツ (Darts)
+JOI	2012
+	5538	JJOOII (JJOOII)
+	5539	たのしいカードゲーム (Card Game is Fun)
+	5540	夜店 (Night Market)
+	5541	釘 (Nails)
+	5542	JOI 국가의 행사
+JOI	2011
+	5549	행성 탐사
+	5550	헌책방
+	5551	쇼핑몰
+	5552	걷는 산타클로스
+	5553	微生物実験 (Bug Party)
+JOI	2010
+	5560	旅人
+	5561	과자의 분할
+	5562	つらら
+	5563	博覧会
+	5564	ダンジョン
+JOI	2009
+	5525	IOIOI
+	5571	ピザ
+	5572	사다리 게임
+	5573	산책
+	5574	認証レベル
+JOI	2008
+	5581	碁石ならべ
+	5582	공통 부분 문자열
+	5526	ダーツ (Darts)
+	5583	ぴょんぴょん川渡り
+	5584	ペンキの色
+JOI	2007
+	5591	最大の和
+	5592	最長の階段
+	5593	最古の遺跡
+	5594	最悪の記者
+	5595	最軽量のモビール
+JOI	2006
+	5602	問題1
+	5603	問題2
+	5604	問題3
+	5605	問題4
+	5606	問題5
+IOI	2022
+	25438	Catfish Farm
+	25439	Prisoner Challenge
+	25440	Radio Towes
+	25441	Digital Circuit
+	25442	Rarest Insects
+	25443	Thousands Islands
+	25434	Magic Cards
+	25460	Magic Cards (Hard)
+	25435	Hoax Spreading
+	25436	Team Contest
+	25437	Connected Towns
+IOI	2021
+	22023	Distributing Candies
+	22024	Keys
+	22025	Fountain Parks
+	22046	Mutating DNA
+	22047	Dungeons Game
+	22048	Bit Shift Registers
+	19929	Handcrafted Gift
+	19930	Jelly Flavours
+	22022	Robot
+	19931	Finding Routers
+IOI	2020
+	19933	Comparing Plants
+	19934	Connecting Supertrees
+	19935	Carnival Tickets
+	19936	Packing Biscuits
+	19937	Counting Mushrooms
+	19938	Stations
+	19929	Handcrafted Gift
+	19930	Jelly Flavours
+	19931	Finding Routers
+	19932	Painting Squares
+IOI	2019
+	19914	Arranging Shoes
+	19915	Split the Attractions
+	19916	Rectangles
+	19926	Broken Line
+	19927	Vision Program
+	19928	Sky Walking
+IOI	2018
+	20060	Combo
+	20062	Seats
+	20063	Werewolf
+	20064	Mechanical Doll
+	20065	Highway Tolls
+	20066	Meetings
+IOI	2017
+	20076	Nowruz
+	20077	Wiring
+	20078	Toy Train
+	20079	The Big Prize
+	20080	Simurgh
+	20081	Ancient Books
+IOI	2016
+	20085	Detecting Molecules
+	20086	Roller Coaster Railroad
+	20087	Shortcut
+	20088	Paint By Numbers
+	20089	Unscrambling a Messy Bug
+	20090	Aliens
+	20082	Laugh
+	20083	Mini Tetris
+	20084	Martian DNA
+IOI	2015
+	10919	Boxes with souvenirs
+	10920	Scales
+	10921	Teams
+	10922	Horses
+	10923	Sorting
+	10924	Sorting 2
+	10925	Towns
+IOI	2014
+	10069	Rail
+	10070	Wall
+	10071	Game
+	10072	Gondola - Gondola Sequence Checking
+	10073	Gondola - Replacement Sequence
+	10074	Gondola - Count Replacement Sequences
+	10075	Friend
+	10076	Holiday
+IOI	2013
+	8872	Dreaming
+	8873	Art Class
+	23838	Wombats
+	20106	Cave
+	8875	Robots
+	23839	Game
+IOI	2012
+	20111	Pebbling odometer
+	5811	낙하산 고리들
+	5812	크래이피쉬 글쓰는 기계
+	5813	이상적인 도시
+	20105	Last Supper
+	5814	마상시합 토너먼트
+IOI	2011
+	5819	열대 식물원
+	5820	경주
+	5821	쌀 창고
+	5822	악어의 지하 도시
+	5823	코끼리
+	20137	Parrots
+IOI	2010
+	10225	Cluedo
+	10226	Hotter Colder
+	10227	삶의 질
+	10231	Languages
+	10228	Memory
+	10229	Traffic Congestion
+	22315	Maze
+	10232	Saveit
+IOI	2009
+	5460	양궁
+	5461	고용
+	5462	POI
+	5463	건포도
+	5464	주차장
+	5465	곰돌이
+	22316	Regions
+	5466	상인
+IOI	2008
+	5467	Type Printer
+	5468	Islands
+	5469	Fish
+	5470	균형잡힌 직선형 정원
+	5471	Pyramid Base
+	11552	Pyramid Base 2
+	11553	Pyramid Base 3
+	5472	Teleporters
+IOI	2007
+	22317	Aliens
+	5473	Flood
+	5474	Sails
+	5475	Miners
+	5476	장난감 동물
+	5477	마라톤 훈련 방해하기
+IOI	2006
+	1593	문자 해독
+	5479	Pyramid
+		
+	5481	The Valley of Mexico
+	5482	Joining Points
+		
+IOI	2005
+	5484	정원
+	5485	평균값 수열
+	5486	Mountains
+	5487	Birthday
+		
+	1805	나무수송
+	22327	Divisor game
+	1824	도미노
+	5483	Polish Flag
+IOI	2004
+	5491	Artemis
+	5492	Hermes
+	2244	민코프스키 합
+	1691	석판
+	2335	농부
+	5493	Empodia
+	5489	Numbers
+		
+IOI	2003
+	22329	Trail Maintenance
+	5494	Comparing Code
+	22330	Reverse
+	22331	Guess Which Cow
+	5495	Amazing Robots
+	2017	울타리
+IOI	2002
+	1752	세상에서 제일 착한 다솜
+	5496	Utopia Divided
+		
+	5498	Batch Scheduling
+	2209	버스 터미널
+		
+IOI	2001
+		
+		
+	5500	Twofive
+		
+	24227	Double Crypt
+	5501	Depot
+IOI	2000
+	5502	팰린드롬
+	5503	Car Parking
+		
+	2364	담장 너머로
+	5504	Post Office
+		
+IOI	1999
+	7030	Little Shop of Flowers
+	7031	Hidden Codes
+		
+		
+	7033	Flatten
+	7034	A Strip of Land
+IOI	1998
+	5506	Contact
+	5507	Starry Night
+	5508	Party Lamps
+	2185	직사각형의 합집합
+	2241	카멜롯
+	5509	Polygon
+IOI	1997
+		
+		
+		
+IOI	1996
+		
+		
+		
+		
+		
+		
+IOI	1995
+	7025	Packing Rectangles
+	7026	Shopping Offers
+	7024	Letter Game
+		
+		
+IOI	1994
+	1932	정수 삼각형
+	2234	성곽
+	5519	소수방진
+	5520	The Clocks
+	1973	버스 노선
+	5521	The Circle
+CEOI	2022
+	25408	Abracadabra
+	25409	Homework
+		
+		
+	25412	Measures
+		
+CEOI	2021
+	23063	Diversity
+	23064	L-triominoes
+	23065	Newspapers
+	23066	Stones
+	23067	Tortoise
+	23068	Wells
+CEOI	2020
+	19679	Fancy Fence
+	19680	Roads
+	19681	Star Trek
+	19682	The Potion of Great Power
+	19683	Spring cleaning
+	19684	Chess Rush
+CEOI	2019
+	17640	Building Skyscrapers
+	17641	Cubeword
+	17642	Dynamic Diameter
+	17643	Amusement Park
+	17644	Magic Tree
+	17645	Scissors and Tape
+	17637	Count Squares
+	17638	Separator
+	17639	Tower Defense
+CEOI	2018
+	16026	Cloud computing
+	16027	Global warming
+	16028	Lottery
+	16029	Fibonacci representations
+	16030	Toys
+	16031	Triangles
+CEOI	2017
+	15246	One-Way Streets
+	15247	Sure Bet
+	15248	Mousetrap
+	15249	Building Bridges
+	15250	Palindromic Partitions
+	15251	Chase
+		
+	22193	Multiply
+	22194	Museum
+CEOI	2016
+	20389	ICC
+	13188	Kangaroo
+	13189	Trick
+	13190	Match
+	13191	Popeala
+	13198	Router
+CEOI	2015
+	10955	Potemkin cycle
+	10956	Calvinball championship
+	10957	Pipes
+	10958	Ice Hockey World Championship
+	10959	Nuclearia
+	10970	Calvinball championship, again
+	10961	School canteen
+CEOI	2014
+		
+	10116	The Forest of Fangorn
+	10117	Question
+	10118	007
+	10119	Cake
+	10120	The Wall
+CEOI	2013
+	6342	Treasure
+	9281	전차
+	9282	Splot
+	9283	보드 게임 &#34;트리&#34;
+	9284	Adriatic
+	11734	Watering
+CEOI	2012
+	3302	Job Scheduling
+	3303	Printed Circuit Board
+	3304	Sailing Race
+		
+		
+		
+CEOI	2011
+	3307	대회가 끝나고 난 뒤 빰빠빰
+	3308	Matching
+	20391	Treasure Hunt
+	3309	Hotel
+	3310	Teams
+	3311	Traffic
+	3312	Similarity
+CEOI	2010
+	3313	The Alliances
+	3314	An Arithmetic Rectangle
+	3315	Bodyguards
+	3316	The MP3 Player
+	3317	PIN
+	3318	A Huge Tower
+CEOI	2009
+		
+	3319	전령들
+	3320	사진
+	3321	가장 큰 직사각형
+	3322	정렬의 시간복잡도
+	3323	삼각형
+CEOI	2008
+	3324	Dominance
+	3326	Knights
+	3325	Information
+		
+	3328	Choosing Orders and Renting Machines
+	3327	Fence
+CEOI	2007
+	3329	Ministry
+	3330	Nasty Calculations
+	20403	Sail Shreds
+	3331	Airport Show
+		
+	3332	Royal treasury
+CEOI	2006
+	3333	Antenna
+	3334	Queue
+	3335	Walk
+	3336	Connect
+	3337	Link
+	20405	Meandian
+CEOI	2005
+	3338	Depot Rearrangement
+	3339	Mobile Service
+	3340	Multi-key Sorting
+		
+		
+	2095	티켓
+CEOI	2004
+	7047	Clouds
+	7048	Sweets
+	7049	Trips
+	7050	Football league
+	7051	Puzzle
+	7052	Two sawmills
+	7046	Journey
+CEOI	2003
+	2270	하노이 탑
+		
+	2284	레이스
+		
+	7053	시프트 레지스터
+	7054	Trip
+CEOI	2002
+	7055	Bugs Integrated, Inc.
+	7056	A decorative fence
+	7057	A highway and the seven dwarfs
+	1760	N-Rook
+	7058	Royal guards
+		
+CEOI	2001
+		
+	7060	Printed Circuit
+		
+		
+		
+CEOI	2000
+CEOI	1999
+		
+	2332	전화번호
+		
+		
+		
+	2388	블록 쌓기
+CEOI	1998
+	2397	보이는 정사각형
+	7070	Cards
+		
+		
+	1884	고속도로
+		
+CEOI	1997
+		
+		
+		
+		
+		
+		
+BOI	2021
+	21845	A Difficult(y) Choice
+	21846	Inside information
+	21847	From Hacks to Snitches
+	21848	The short shank; Redemption
+	21849	The Collection Game
+	21850	The Xana coup
+	21844	Keyboard
+BOI	2020
+	19556	Colors
+	19557	Mixture
+	19558	Joker
+	19559	Graph
+	19560	Village
+	19561	Viruses
+	19554	Guess the number
+	19555	Roses
+BOI	2019
+		
+	17184	Nautilus
+	17185	Alpine Valley
+	17186	Tom’s Kitchen
+	17187	Necklace
+	22195	Necklace 4
+	17188	Olympiads
+BOI	2018
+	15861	Love Polygon
+	15862	Martian DNA
+	15863	Worm Worries
+	15864	Alternating Current
+	15865	Genetics
+	15866	Paths
+	15858	Simple Arithmetic
+	15859	Citations
+	15860	Ninety-nine
+BOI	2017
+	22196	Political Development
+	22197	Railway
+	22198	Toll
+	22199	Cat in a tree
+	20657	가챠를 돌려 동료를 늘리고 최강의 PS 군단을 만들자.
+	22200	Plus Minus
+BOI	2016
+	12749	Bosses
+	12750	Park
+	12751	Spiral
+	12752	도시들
+	12753	Maze
+	12754	스왑
+BOI	2015
+	10778	Bowling
+	10779	Editor
+	10780	Network
+	10781	File Paths
+	10782	Hacker
+	10783	Tug of War
+BOI	2014
+	10095	Cop and Robber
+	10096	세 친구
+	10097	수열
+	10098	양분
+	10099	Portals
+	10100	Senior Postmen
+	10093	숫자
+	10094	Computer Network
+BOI	2013
+	6288	Ball Machine
+	6289	무-팰린드롬 숫자
+	6290	Pipes
+	6291	Brunhilda’s Birthday
+	6292	Tracks in the Snow
+	6293	Vim
+BOI	2012
+	3345	괄호
+	3346	꿍 기지국
+	3347	Peaks
+	3348	Fireworks in RightAngleles
+	3349	Melody
+	22205	Tiny
+	3343	장미
+	3344	N-Queen
+BOI	2011
+	2426	세계적인 석유 재벌
+	2422	한윤정이 이탈리아에 가서 아이스크림을 사먹는데
+	2423	전구를 켜라
+	2424	부산의 해적
+	2427	2012 지구 멸망
+	2428	표절
+	2429	길이
+	2430	거울대칭트리 그래프
+	2420	사파리월드
+	2421	저금통
+BOI	2010
+	2418	단어 격자
+	3352	BEARs
+	2425	Lego
+	3353	Printed Circuit Board
+	3354	Matching Bins
+	3355	Candies
+	22215	Mines
+BOI	2009
+	2419	사수아탕
+	3350	Candy Machine
+	2431	신호 장애
+	2415	직사각형
+	3351	삼각 분할
+	3357	Monument
+	3356	라디오 전송
+BOI	2008
+	1210	마피아
+	1191	게임
+	2416	문
+	1223	마법의 돌
+	1226	국회
+	1200	기상예측
+	1192	장갑
+BOI	2007
+	3364	Escape
+	2432	순위 정렬
+	2433	The Sound of Silence
+	3365	Building a Fence
+	2434	점 연결하기
+	3366	수열 줄이기
+BOI	2006
+	2417	정수 제곱근
+	3367	Bitwise Expressions
+	3368	Coin Collector
+	3369	Countries
+	3370	City Planning
+	3371	RLE Compression
+	1890	점프
+	3372	보드 점프
+BOI	2005
+	3373	Cards
+	3374	Camouflaged camp
+	3375	Magic Parenthesis
+	3376	Maze
+	3377	Ancient Manuscript
+	3378	Bus Trip
+	3379	Polygon
+BOI	2004
+	22216	Ships
+	22217	Scales
+	13323	BOJ 수열 1
+	13324	BOJ 수열 2
+	22218	Repeats
+	1945	Rectangles
+	22220	Car Park
+BOI	2003
+	3380	Linker
+	3381	Barrel
+	3382	Gems
+	22231	Table
+	1765	닭싸움 팀 정하기
+	2272	램프
+		
+BOI	2002
+	3385	Speed Limits
+	3386	테니스 클럽
+	2297	직각 이등변 삼각형
+	1702	고속도로
+	3388	L Game
+	3389	Moving Robots
+BOI	2001
+		
+	2347	거울2
+	3391	나이트
+	3392	화성 지도
+	1803	무술 연습
+BOI	2000
+	3394	Honeycomb Problem
+	3395	Time Zones
+	3396	Electronical Plate
+	3397	Division Expression
+	3398	Stickers
+	3399	Mutexes
+BOI	1999
+	3400	Expressions
+		
+		
+		
+		
+BOI	1998
+		
+		
+		
+		
+		
+		
+		
+APIO	2022
+		
+	25266	Game
+	25267	Permutation
+APIO	2021
+	21851	육각형 영역
+	21852	밀림 점프
+	21853	도로 폐쇄
+APIO	2020
+	19618	벽 칠하기
+	19619	자매 도시
+	19620	즐거운 행로
+APIO	2019
+	17634	이상한 기계
+	17635	다리
+	17636	가로등
+APIO	2018
+	15766	New Home
+	15767	Circle selection
+	15768	Duathlon
+APIO	2017
+	15842	Koala Game
+	15843	Travelling Merchant
+	15844	Land of the Rainbow Gold
+APIO	2016
+	12735	Boat
+	12736	Fireworks
+	20537	Gap
+APIO	2015
+	10846	발리의 조각상
+	10847	자카르타의 마천루
+	10848	팔렘방의 다리
+APIO	2014
+	10066	팰린드롬
+	10067	수열 나누기
+	10068	구슬이 서말이라도 꿰어야 보배
+APIO	2013
+	7138	Robots
+	7139	Toll
+	7147	데이터 만들기
+APIO	2012
+	4002	닌자배치
+	4003	경비병
+	4004	쿠나이
+APIO	2011
+	4005	테이블 색칠하기
+	4006	경로 찾기
+	4007	단어 추측 게임
+APIO	2010
+	4008	특공대
+	4009	순찰
+	4010	신호
+APIO	2009
+	4011	기름 파기
+	4012	컨벤션 센터
+	4013	ATM
+APIO	2008
+	20538	Beads
+	4014	도로
+	4015	DNA
+APIO	2007
+	4016	모빌
+	1150	백업
+	4017	동물원
